@@ -4,7 +4,9 @@
     theme: {
       extend: {
         colors: {
-          clifford: '#da373d',
+          'verde-clarinho': '#D5FFEA',
+          'verde-claro': '#85CFAA',
+          'verde-escuro': '#41745A',
         }
       },
     },

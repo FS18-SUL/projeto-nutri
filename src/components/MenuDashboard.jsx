@@ -1,9 +1,10 @@
 import { NavLink } from "react-router";
+import logo from "../assets/logo.png"
 
 const MenuDashboard = () => {
     return (
-        <div className="w-[250px] h-screen bg-slate-200 p-4">
-            <h1 className="mb-6">Logo</h1>
+        <div className="w-[250px] h-[calc(100vh_-_40px)] mt-[20px] ml-[20px] rounded-[10px] bg-verde-clarinho p-4">
+            <img src={logo} alt="App Nutri" className="mb-6 m-auto" />
             <nav className="*:text-slate-500 *:block *:font-semibold hover:*:bg-slate-300 *:duration-200">
                 <NavLink 
                     end
