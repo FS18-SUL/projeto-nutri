@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario_nome": "Gleidson",
+      "usuario_email": "gleidson@gmail.com",
+      "usuario_senha": "123456"
+    },
+    {
+      "usuario_nome": "Dan",
+      "usuario_email": "daniel@gmail.com",
+      "usuario_senha": "123123",
+      "id": 2
+    },
+    {
+      "usuario_nome": "Marcos",
+      "usuario_email": "marcos@gmail.com",
+      "usuario_senha": "123123",
+      "id": 3
+    },
+    {
+      "usuario_nome": "Frank",
+      "usuario_email": "franck@gmail.com",
+      "usuario_senha": "123123",
+      "id": 4
+    },
+    {
+      "usuario_nome": "Camila",
+      "usuario_email": "camila@gmail.com",
+      "usuario_senha": "12123",
+      "id": 5
+    },
+    {
+      "usuario_nome": "Jessica",
+      "usuario_email": "jessica@gmail.com",
+      "usuario_senha": "123123",
+      "id": 6
+    }
+  ]
+}
